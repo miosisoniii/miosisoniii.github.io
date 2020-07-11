@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to Mio Sison III's GitHub Pages site!
 
-You can use the [editor on GitHub](https://github.com/miosisoniii/miosisoniii.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a budding scientist with a knack for solving problems using code. Originally from Detroit, MI.
 
-### Markdown
+### My Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My work ranges from basic data science in biology to pharmacometrics. Relatively new to coding (< 3 years of formal training), I have tried to gain experience by taking on side-projects in a variety of areas of research with the overall goal of improving the lives of others. Some of my most recent projects include work in the areas of:
 
-```markdown
-Syntax highlighted code block
+**Current:**
 
-# Header 1
-## Header 2
-### Header 3
+*Bioinformatics*
+- Hepatocellular Carcinoma (HCC, or Liver Cancer)
+- RNA-seq
+- Functional Enrichment
 
-- Bulleted
-- List
+*Pharmacometrics*
+- Model Informed Drug Design (MIDD)
+- Quantitative Systems Pharmacology (QSP)
 
-1. Numbered
-2. List
+**Past:**
 
-**Bold** and _Italic_ and `Code` text
+- Cancer Immunogenicity
+- Autologous Cell Therapies
+- Urinary Tract Infection (UTI)
 
-[Link](url) and ![Image](src)
-```
+#### Skills and Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miosisoniii/miosisoniii.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- R
+- R Shiny
+- AWS
+- Git
+- BitBucket
+- UNIX/LINUX
