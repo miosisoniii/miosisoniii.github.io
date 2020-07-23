@@ -1,4 +1,4 @@
-## Welcome to Mio Sison III's GitHub Pages site!
+## Welcome to Mio Sison III's GitHub Pages Personal site!
 
 ### About Me
 
@@ -33,3 +33,10 @@ My work ranges from basic data science in biology to pharmacometrics. Relatively
 - Git
 - BitBucket
 - UNIX/LINUX
+
+#### Interests
+
+- (Mechanical Keyboards) [https://miosisoniii.github.io/root/kbd_pages/]
+- Interior Design/Architecture
+- Lacrosse
+- Running
